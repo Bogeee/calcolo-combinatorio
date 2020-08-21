@@ -9,7 +9,7 @@ Per poter utilizzare questo semplice progetto in modo efficiente, sono necessari
 * Oppure un qualsiasi libro di matematica che tratta l'argomento. (Opzionale)
 
 ## English :uk: :us:
-> [EN] Personal project to speed up calculations in the branch of mathematics of combinatorics. It's a simple calculator that gets in input the parameters used by the different functions and gives the result as an output.
+> [EN] Personal project to speed up calculations in the branch of mathematics of combinatorics. It's a simple calculator that gets in input the parameters used by the different functions and gives the result as output.
 ### Prerequisites
 In order to use this simple project in an efficient way, some mathematical skills are required, in particular from combinatorics.
 
